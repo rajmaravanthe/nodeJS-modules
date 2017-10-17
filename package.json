@@ -1,0 +1,9 @@
+{
+    "name": "modules",
+    "version": "0.0.1",
+    "descriptions": "Description of your project",
+    "author": "your name",
+    "dependencies": {
+        "underscore": "*"
+    }
+}
